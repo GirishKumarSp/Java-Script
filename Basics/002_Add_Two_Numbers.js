@@ -8,6 +8,10 @@ const sum = num1 + num2;
 // display the sum
 console.log('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
 
+// Output
+
+// The sum of 5 and 3 is: 8
+
 //2
 //Add Two Numbers Entered by the User
 //prompt() is used to take inputs from the user. parseInt() is used to convert the user input string to number.
@@ -22,3 +26,9 @@ const sum = num1 + num2;
 
 // display the sum
 console.log(`The sum of ${num1} and ${num2} is ${sum}`);
+
+// Output
+
+// Enter the first number 5
+// Enter the second number 3
+// The sum of 5 and 3 is: 8
